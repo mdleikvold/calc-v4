@@ -1,0 +1,1 @@
+This ZIP is a scaffold only. I cannot honestly package a complete app that has not yet been generated.
